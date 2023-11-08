@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skeen/static/css/main.7acaea2f.css",
+    "main.js": "/skeen/static/js/main.07d3183d.js",
+    "index.html": "/skeen/index.html",
+    "main.7acaea2f.css.map": "/skeen/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/skeen/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
